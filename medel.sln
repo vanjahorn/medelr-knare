@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "medel", "medel\medel.csproj", "{5A2073C8-100A-4A41-8C3E-65A8AB3955E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A2073C8-100A-4A41-8C3E-65A8AB3955E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A2073C8-100A-4A41-8C3E-65A8AB3955E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A2073C8-100A-4A41-8C3E-65A8AB3955E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A2073C8-100A-4A41-8C3E-65A8AB3955E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6CBBB57-C4E5-46ED-8744-F27272C5B454}
+	EndGlobalSection
+EndGlobal
